@@ -2,7 +2,7 @@
 
 <!--
 **joselinosantosti/joselinosantosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 I'm Joselino Santos. Developer, Studying Data analysis with Python:
 
 - 🔭 I’m currently working on Python Data Projects.
@@ -23,4 +23,4 @@ know more about me.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
--->
+

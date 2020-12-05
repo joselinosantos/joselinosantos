@@ -13,11 +13,11 @@ I'm Joselino Santos. Developer, Studying Data analysis with Python:
 - [Blog]()
 - ⚡ Fun fact: ...
 
-## Technologies
-* ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-* * ![Python](https://img.shields.io/badge/-python-1572B6?style=flat-square&logo=python)
-* Raspberry Pi
+## Technologies<br>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-python-1572B6?style=flat-square&logo=python)
+Raspberry Pi
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)

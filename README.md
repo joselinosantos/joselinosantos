@@ -11,7 +11,7 @@
 ### know more about me.
 ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselino-santos/)
 <!--- [Youtube]()-->
-![Blog](https://medium.com/@joselinosantos)
+![Blog](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@joselinosantos)
 <!--- ⚡ Fun fact: ...-->
 <!--- [Instagram]()-->
 ![Instagram](https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/joselino_santos)

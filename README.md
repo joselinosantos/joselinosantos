@@ -9,7 +9,7 @@
 - :bar_chart: I’m currently learning Python for Data Analysis|Machine Learning, Power BI.
 
 ### know more about me.
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselino-santos/)](https://www.linkedin.com/in/joselino-santos/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselino-santos/)](https://www.linkedin.com/in/joselino-santos/)
 <!--- [Youtube]()-->
 [![Blog](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@joselinosantos)](https://medium.com/@joselinosantos)
 <!--- ⚡ Fun fact: ...-->

@@ -14,7 +14,7 @@
 ![Blog](https://medium.com/@joselinosantos)
 <!--- ⚡ Fun fact: ...-->
 <!--- [Instagram]()-->
-[Instagram](https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/joselino_santos)
+![Instagram](https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/joselino_santos)
 
 ## Technologies and Tools<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

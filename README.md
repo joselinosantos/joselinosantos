@@ -6,7 +6,7 @@
 I'm Joselino Santos. Developer, Studying Data analysis with Python:
 
 <!--- 🔭 I’m currently working on Python Data Projects.-->
-- 🌱 I’m currently learning Python for Data analysis, Power BI.
+- 🌱 I’m currently learning Python for Data Analysis|Machine Learning, Power BI.
 - know more about me.
 - [Linkedin](https://www.linkedin.com/in/joselino-santos/)
 <!--- [Youtube]()-->

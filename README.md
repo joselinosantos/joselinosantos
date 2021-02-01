@@ -11,12 +11,12 @@
 ### know more about me.
 ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselino-santos/)
 <!--- [Youtube]()-->
-- [Blog](https://medium.com/@joselinosantos)
+![Blog](https://medium.com/@joselinosantos)
 <!--- ⚡ Fun fact: ...-->
 <!--- [Instagram]()-->
-[Instagram](https://instagram.com/joselino_santos)
+[Instagram](https://img.shields.io/badge/Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/joselino_santos)
 
-## Technologies<br>
+## Technologies and Tools<br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-python-1572B6?style=flat-square&logo=python)

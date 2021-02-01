@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Postgre](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=postgres&logoColor=white)
+![Postgre](https://img.shields.io/badge/Postgre-326690?style=flat-square&logo=postgre&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/-google?style=flat-square&logo=google&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-google?style=flat-square&logo=google&logoColor=white)

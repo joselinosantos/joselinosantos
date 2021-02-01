@@ -3,7 +3,7 @@
 <!--
 **joselinosantosti/joselinosantosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### I'm Joselino Santos. Developer, Studying Data analysis with Python:
+### I'm Joselino Santos. Developer, Studying Python|Data Analysis|Machine Learning|PowerBI:
 
 <!--- 🔭 I’m currently working on Python Data Projects.-->
 - :bar_chart: I’m currently learning Python for Data Analysis|Machine Learning, Power BI.
@@ -28,3 +28,5 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-google?style=flat-square&logo=google&logoColor=white)
 ![Google DataStudio](https://img.shields.io/badge/-google?style=flat-square&logo=google&logoColor=white)
+![Excel](https://img.shields.io/badge/-google?style=flat-square&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/-google?style=flat-square&logo=google&logoColor=white)

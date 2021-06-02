@@ -3,10 +3,10 @@
 <!--
 **joselinosantosti/joselinosantosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### I'm Joselino Santos. Developer, Studying Python|Data Analysis|Machine Learning|PowerBI:
+### I'm Joselino Santos. Web Developer|Data Analyst:
 
-<!--- 🔭 I’m currently working on Python Data Projects.-->
-- :bar_chart: I’m currently learning Python for Data Analysis|Machine Learning, Power BI.
+<!--- 🔭 I’m currently working on Personal Web Projects.-->
+- :bar_chart: I’m currently learning Python for Data Analysis and Web Apps in JS.
 
 ### know more about me.
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joselino-santos/)](https://www.linkedin.com/in/joselino-santos/)

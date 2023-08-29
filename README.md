@@ -1,10 +1,10 @@
-<header style="background-image: url('bg.png'); background-size: 100% ">
+<header style="background-image: url('https://github.com/joselinosantos/joselinosantos/blob/main/bg.png'); background-size: 100% ">
 <h1 align="center">Hi 👋, I'm Joselino Santos</h1>
 <h3 align="center">Resolvendo problemas com tecnologias Web</h3>
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [desenvolvedorjs.com/](desenvolvedorjs.com/)
+- 👨‍💻 All of my projects are available at [desenvolvedorjs.com](https://desenvolvedorjs.com/)
 
 - 📫 How to reach me **joselinosantosti@gmail.com**
 </header>
@@ -24,7 +24,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 <div align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joselinosantos&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joselinosantos&show_icons=true&theme=radical&layout=compact" alt="joselinosantos" /></div>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joselinosantos&theme=synthwave&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joselinosantos&show_icons=true&theme=synthwave&layout=compact" alt="joselinosantos" /></div>
 
-<footer style="height: 64px; background-image: url('bg-footer.png'); background-size: 100%"></footer>
+<footer style="height: 64px; background-image: url('https://github.com/joselinosantos/joselinosantos/blob/main/bg-footer.png'); background-size: 100%"></footer>

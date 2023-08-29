@@ -1,12 +1,12 @@
 <header style="background-image: url('bg.png'); background-size: 100% ">
-    <h1 align="center">Hi 👋, I'm Joselino Santos</h1>
-    <h3 align="center">Resolvendo problemas com tecnologias Web</h3>
+<h1 align="center">Hi 👋, I'm Joselino Santos</h1>
+<h3 align="center">Resolvendo problemas com tecnologias Web</h3>
 
-    - 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular**
 
-    - 👨‍💻 All of my projects are available at [desenvolvedorjs.com/](desenvolvedorjs.com/)
+- 👨‍💻 All of my projects are available at [desenvolvedorjs.com/](desenvolvedorjs.com/)
 
-    - 📫 How to reach me **joselinosantosti@gmail.com**
+- 📫 How to reach me **joselinosantosti@gmail.com**
 </header>
 
 <h3 align="left">Connect with me:</h3>

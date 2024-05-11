@@ -1,10 +1,10 @@
 <header style="background-image: url('https://github.com/joselinosantos/joselinosantos/blob/main/bg.png'); background-size: 100% ">
 <h1 align="center">Hi 👋, I'm Joselino Santos</h1>
-<h3 align="center">Resolvendo problemas com tecnologias Web</h3>
+<h3 align="center">Solving problems using code and tools</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **LLMs tools**
 
-- 👨‍💻 All of my projects are available at [desenvolvedorjs.com](https://desenvolvedorjs.com/)
+- 👨‍💻 All of my web projects are available at [My site](https://joselinosantos.com.br)
 
 - 📫 How to reach me **joselinosantosti@gmail.com**
 </header>
